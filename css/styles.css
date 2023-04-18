@@ -1,3 +1,14 @@
+img {
+	float: left;
+	width: 150px;
+	height: auto;
+}
+
 .jumbotron {
 	text-align: center;
+}
+
+.sidebar {
+	width: 40%;
+	float: left;
 }
