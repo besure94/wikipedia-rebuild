@@ -19,3 +19,11 @@ img {
 .col-md-4 img {
 	float: right;
 }
+
+.col-md-4 h2 {
+	background-color: #cedff2;
+}
+
+.col-md-8 h2 {
+	background-color: #CEF2E0;
+}
