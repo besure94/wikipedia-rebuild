@@ -8,6 +8,10 @@ img {
 	text-align: center;
 }
 
+.card-title {
+	border: 1px solid;
+}
+
 .col-md-4 img {
 	float: right;
 }
