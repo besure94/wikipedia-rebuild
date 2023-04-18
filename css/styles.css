@@ -8,6 +8,6 @@ img {
 	text-align: center;
 }
 
-.col-4 img {
+.col-md-4 img {
 	float: right;
 }
