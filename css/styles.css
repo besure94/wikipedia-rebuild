@@ -50,6 +50,10 @@ img {
 	justify-content: space-between;
 }
 
+#languages {
+	background-color: #eee;
+}
+
 .robert {
 	float: right;
 }
