@@ -24,6 +24,10 @@ img {
 	border: 1px solid;
 }
 
+.center {
+	float: center;
+}
+
 .col-md-4 img {
 	float: right;
 }
@@ -39,6 +43,10 @@ img {
 .col-md-12 img {
 	float: left;
 	width: 400px;
+}
+
+.left {
+	float: left;
 }
 
 .robert {
