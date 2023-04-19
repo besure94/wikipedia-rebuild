@@ -2,6 +2,10 @@
 	float: right;
 }
 
+h2 {
+	font-size: large;
+}
+
 img {
 	float: left;
 	width: 150px;
@@ -28,10 +32,6 @@ img {
 	background-color: #CEF2E0;
 }
 
-.col-md-12 h2 {
-	background-color: #ddcef2;
-}
-
 .col-md-12 img {
 	float: left;
 	width: 400px;
@@ -39,4 +39,12 @@ img {
 
 .robert {
 	float: right;
+}
+
+#today {
+	background-color: #ddcef2;
+}
+
+#wikipedia {
+	background-color: #eee;
 }
