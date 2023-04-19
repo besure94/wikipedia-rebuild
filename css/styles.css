@@ -18,6 +18,13 @@ img {
 
 .jumbotron {
 	text-align: center;
+	font-size: small;
+}
+
+.jumbotron h1 {
+	font-size: x-large;
+	font-family: Helvetica;
+	font-weight: 400;
 }
 
 .card-title {
@@ -52,6 +59,11 @@ img {
 
 #languages {
 	background-color: #eee;
+}
+
+.nav-link {
+	display: flex;
+	justify-content: space-between;
 }
 
 .robert {
